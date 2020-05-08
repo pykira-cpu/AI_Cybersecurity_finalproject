@@ -77,7 +77,6 @@ These are few sample attributes of each attack. You can test and compare the res
 	python test.py icmp 0.0 0.0 30.0 0.0 1.0 0.0 0.0
 	python test.py udp 45.0 -0.3 45.0 236.0 2.0
 
-Link to the presentation of this project : https://www.youtube.com/watch?v=bPmLp9tcqGw
 
 
 
