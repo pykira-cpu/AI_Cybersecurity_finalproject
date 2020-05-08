@@ -1,4 +1,4 @@
-## DDoS Detection using Machine Learning models
+## DDoS Detection using Machine Learning Algorithms
 ▪ A distributed denial of service (DDoS) attack is a malicious attempt to make an online service unavailable to users, usually by temporarily interrupting or suspending the services of its hosting
  server.
 
@@ -16,12 +16,18 @@ Common DDoS attack types:
 Explore more about them for better knowledge on DDoS attacks.
 
 ▪ Dataset :  The cleaned.csv file is KD99 generated dataset. It is located in 'dataset' directory
+
 ▪ Language and version : Python 3.x 
+
 ▪ Packages             : numpy, sklearn, pickle, tqdm, pandas, seaborn and matplotlib.
+
 ▪ Techniques           : K-Nearest Neighbours, Decision tree, Multi-layer Perceptron and Logistic Regression. 
+
 ▪ Platforms            : Jupyter Notebook and IDLE
 
+
 ▪ 3 .ipynb files on 3 different DDoS attacks implementing all Machine Learning Algorithms in each file.
+
 ▪ 2 .py files which is train.py and test.py for fitting our best models with trained and test data.  
 
 
