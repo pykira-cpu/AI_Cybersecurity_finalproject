@@ -61,13 +61,19 @@ TRAINING OUR MODEL (This will take certain amount of time)
 TESTING OUR MODEL
    This is fast but a little tricky
    You have to ensure how many parameters you input for testing out the class.
-    type "python test.py tcp_syn -1.5 1.0 2.0 30.0 1.0"
+    
+    python test.py tcp_syn -1.5 1.0 2.0 30.0 1.0
+    
    This will use the tcp_syn pre-trained model and test the given parameters on it.
    Now each protocol has different parameter length as input. While tcp_syn protocol takes
    a length of 5 float value inputs others may take different inputs.
+   
    NOTE:
+   
 	ICMP takes 7 ARGUMENTS
+	
 	UDP takes 5 ARGUMENTS
+	
 	TCP_SYN takes 5 ARGUMENTS
 
 These are few sample attributes of each attack. You can test and compare the result with predicted ones.
